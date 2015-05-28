@@ -15,7 +15,7 @@ import os.path
 import unicodecsv
 import sys
 import time
-
+import csv
 
 # -----------------------------------------------------------
 # main
